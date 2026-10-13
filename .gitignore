@@ -1,5 +1,17 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python virtual environment
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+.venv/
+venv/
 
+# Python cache
 __pycache__/
-.pyc
+*.pyc
+
+# Secrets
 .env
+
+# Editor settings
+.vscode/
