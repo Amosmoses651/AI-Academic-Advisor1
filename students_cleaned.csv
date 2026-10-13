@@ -1,0 +1,13 @@
+gpa,attendance,study_hours,failed_courses,support_level
+3.8,90,3.0,0,Low
+3.5,85,2.5,0,Low
+4.2,95,4.0,0,Low
+3.2,80,2.0,1,Low
+2.8,75,1.5,1,Moderate
+2.5,70,1.0,2,Moderate
+2.9,78,2.0,1,Moderate
+2.2,65,1.0,2,Moderate
+1.8,55,0.5,4,High
+1.5,50,1.0,3,High
+2.0,60,0.5,3,High
+1.2,45,0.5,5,High
